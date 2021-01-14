@@ -1,4 +1,4 @@
-# vue-cli
+# vue.js based load-more functionality
 
 ## Project setup
 ```
